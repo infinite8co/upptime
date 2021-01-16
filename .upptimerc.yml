@@ -8,15 +8,20 @@ sites:
     url: https://infinite8.co
   - name: Hosting Site
     url: https://store.infinite8.co
+  - name: Status Page
+    url: https://status.infinite8.co
+  - name: Third-party Status Page
+    url: https://status2.infinite8.co
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status2.infinite8.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://infinite8.co/wp-content/uploads/2020/07/infinite8_wordmark_light.png
   name: Infinite 8 Enterprises Status 2
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: ""
   introMessage: This is being developed
   navbar:
     - title: Home
