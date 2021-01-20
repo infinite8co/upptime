@@ -40,18 +40,20 @@
     "url": "https://status.infinite8.co",
     "icon": "https://favicons.githubusercontent.com/status.infinite8.co",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 718,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
-    "dailyMinutesDown": {}
+    "time": 471,
+    "timeDay": 732,
+    "timeWeek": 471,
+    "timeMonth": 471,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2021-01-20": 0
+    }
   },
   {
     "name": "Third-party Status Page",
