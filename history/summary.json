@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/status.infinite8.co",
     "slug": "status-page",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.81%",
     "uptimeDay": "96.21%",
     "uptimeWeek": "95.86%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "96.77%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
     "time": 604,
     "timeDay": 723,
     "timeWeek": 681,
@@ -62,17 +62,19 @@
     "url": "https://status2.infinite8.co",
     "icon": "https://favicons.githubusercontent.com/status2.infinite8.co",
     "slug": "third-party-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 67,
-    "timeWeek": 85,
+    "timeDay": 79,
+    "timeWeek": 86,
     "timeMonth": 89,
     "timeYear": 89,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 0
+    }
   }
 ]
