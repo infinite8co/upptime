@@ -6,8 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: Homepage
     url: https://infinite8.co
-  - name: Hosting Site
-    url: https://store.infinite8.co
+  - name: Client Portal
+    url: https://accounts.infinite8.co
   - name: Status Page
     url: https://status.infinite8.co
   - name: Third-party Status Page
