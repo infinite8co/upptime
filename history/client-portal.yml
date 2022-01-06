@@ -1,7 +1,7 @@
 url: https://accounts.infinite8.co
-status: up
-code: 200
-responseTime: 683
-lastUpdated: 2022-01-06T21:51:08.689Z
+status: down
+code: 502
+responseTime: 1413
+lastUpdated: 2022-01-06T22:22:27.771Z
 startTime: Wed Dec 22 2021 04:11:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
