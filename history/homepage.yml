@@ -1,7 +1,7 @@
 url: https://infinite8.co
-status: up
-code: 200
-responseTime: 865
-lastUpdated: 2022-05-12T23:18:02.388Z
+status: down
+code: 502
+responseTime: 125
+lastUpdated: 2022-05-13T14:02:11.182Z
 startTime: Mon Dec 14 2020 08:15:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
