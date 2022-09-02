@@ -4,14 +4,14 @@
     "url": "https://infinite8.co",
     "icon": "https://favicons.githubusercontent.com/infinite8.co",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "83.28%",
-    "uptimeDay": "98.17%",
+    "status": "down",
+    "uptime": "83.59%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "96.35%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "71.26%",
+    "uptimeMonth": "94.53%",
+    "uptimeYear": "71.78%",
     "time": 616,
-    "timeDay": 282,
+    "timeDay": 271,
     "timeWeek": 217,
     "timeMonth": 206,
     "timeYear": 327,
@@ -156,10 +156,7 @@
       "2021-10-16": 18,
       "2021-10-08": 8,
       "2021-10-05": 243,
-      "2021-10-04": 459,
-      "2021-10-03": 1008,
-      "2021-10-02": 1440,
-      "2021-10-01": 289
+      "2021-10-04": 459
     }
   },
   {
@@ -167,17 +164,17 @@
     "url": "https://accounts.infinite8.co",
     "icon": "https://favicons.githubusercontent.com/accounts.infinite8.co",
     "slug": "client-portal",
-    "status": "up",
-    "uptime": "87.85%",
-    "uptimeDay": "98.17%",
+    "status": "down",
+    "uptime": "87.86%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "96.50%",
     "uptimeMonth": "94.44%",
-    "uptimeYear": "87.85%",
-    "time": 744,
-    "timeDay": 574,
-    "timeWeek": 768,
-    "timeMonth": 608,
-    "timeYear": 744,
+    "uptimeYear": "87.86%",
+    "time": 743,
+    "timeDay": 514,
+    "timeWeek": 752,
+    "timeMonth": 606,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2022-09-02": 26,
       "2022-09-01": 274,
@@ -233,8 +230,7 @@
       "2022-03-06": 18,
       "2022-02-24": 16,
       "2022-02-23": 20,
-      "2022-02-21": 544,
-      "2022-02-20": 52
+      "2022-02-21": 544
     }
   },
   {
@@ -242,16 +238,16 @@
     "url": "https://status.infinite8.co",
     "icon": "https://favicons.githubusercontent.com/status.infinite8.co",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "92.00%",
-    "uptimeDay": "98.17%",
+    "uptimeDay": "98.15%",
     "uptimeWeek": "96.50%",
     "uptimeMonth": "94.48%",
-    "uptimeYear": "86.96%",
+    "uptimeYear": "86.97%",
     "time": 439,
-    "timeDay": 361,
-    "timeWeek": 387,
-    "timeMonth": 378,
+    "timeDay": 332,
+    "timeWeek": 382,
+    "timeMonth": 377,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2022-09-02": 26,
@@ -330,8 +326,7 @@
       "2021-12-18": 24,
       "2021-12-15": 18,
       "2021-11-29": 17,
-      "2021-11-26": 89,
-      "2021-11-24": 17
+      "2021-11-26": 89
     }
   },
   {
