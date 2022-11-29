@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/infinite8.co.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "84.24%",
+    "uptime": "84.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.19%",
+    "uptimeYear": "69.26%",
     "time": 397,
-    "timeDay": 126,
-    "timeWeek": 242,
-    "timeMonth": 207,
+    "timeDay": 315,
+    "timeWeek": 269,
+    "timeMonth": 213,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2022-10-24": 1109,
@@ -163,8 +163,7 @@
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
-      "2021-11-30": 1440,
-      "2021-11-29": 1440
+      "2021-11-30": 1440
     }
   },
   {
@@ -179,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
     "time": 734,
-    "timeDay": 835,
-    "timeWeek": 822,
-    "timeMonth": 957,
+    "timeDay": 861,
+    "timeWeek": 820,
+    "timeMonth": 951,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2022-10-24": 28,
@@ -210,16 +209,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "85.50%",
+    "uptime": "85.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.52%",
+    "uptimeMonth": "79.81%",
     "uptimeYear": "72.94%",
-    "time": 438,
-    "timeDay": 384,
-    "timeWeek": 331,
-    "timeMonth": 325,
-    "timeYear": 400,
+    "time": 439,
+    "timeDay": 1140,
+    "timeWeek": 434,
+    "timeMonth": 349,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2022-11-04": 303,
       "2022-11-03": 1440,
@@ -349,8 +348,7 @@
       "2021-12-22": 174,
       "2021-12-21": 103,
       "2021-12-18": 24,
-      "2021-12-15": 18,
-      "2021-11-29": 17
+      "2021-12-15": 18
     }
   },
   {
@@ -359,12 +357,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "63.05%",
+    "uptime": "63.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.23%",
-    "time": 129,
+    "uptimeYear": "44.51%",
+    "time": 130,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -571,8 +569,7 @@
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
-      "2021-11-30": 1440,
-      "2021-11-29": 1440
+      "2021-11-30": 1440
     }
   }
 ]
