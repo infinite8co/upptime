@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/infinite8.co.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.50%",
     "uptimeMonth": "86.86%",
     "uptimeYear": "86.26%",
-    "time": 316,
-    "timeDay": 133,
-    "timeWeek": 290,
-    "timeMonth": 425,
+    "time": 315,
+    "timeDay": 187,
+    "timeWeek": 268,
+    "timeMonth": 422,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2022-12-19": 1058,
@@ -115,10 +115,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.77%",
     "time": 737,
-    "timeDay": 859,
-    "timeWeek": 730,
-    "timeMonth": 820,
-    "timeYear": 737,
+    "timeDay": 943,
+    "timeWeek": 739,
+    "timeMonth": 822,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2022-12-09": 26,
       "2022-10-24": 28,
@@ -146,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "85.99%",
+    "uptime": "86.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "72.97%",
+    "uptimeYear": "73.00%",
     "time": 431,
-    "timeDay": 375,
-    "timeWeek": 222,
+    "timeDay": 406,
+    "timeWeek": 220,
     "timeMonth": 337,
-    "timeYear": 395,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2022-12-09": 18,
       "2022-11-04": 303,
@@ -281,8 +281,7 @@
       "2021-12-27": 1440,
       "2021-12-26": 1440,
       "2021-12-25": 1440,
-      "2021-12-24": 1440,
-      "2021-12-23": 991
+      "2021-12-24": 1440
     }
   },
   {
@@ -291,11 +290,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "64.30%",
+    "uptime": "64.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.81%",
+    "uptimeYear": "51.08%",
     "time": 132,
     "timeDay": 0,
     "timeWeek": 0,
@@ -479,8 +478,7 @@
       "2021-12-27": 1440,
       "2021-12-26": 1440,
       "2021-12-25": 1440,
-      "2021-12-24": 1440,
-      "2021-12-23": 1440
+      "2021-12-24": 1440
     }
   }
 ]
