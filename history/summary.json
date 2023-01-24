@@ -110,7 +110,7 @@
     "slug": "client-portal",
     "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "24.85%",
+    "uptimeDay": "31.28%",
     "uptimeWeek": "61.03%",
     "uptimeMonth": "91.03%",
     "uptimeYear": "98.06%",
@@ -150,7 +150,7 @@
     "slug": "status-page",
     "status": "up",
     "uptime": "86.26%",
-    "uptimeDay": "32.88%",
+    "uptimeDay": "39.32%",
     "uptimeWeek": "62.18%",
     "uptimeMonth": "91.26%",
     "uptimeYear": "74.26%",
@@ -291,7 +291,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.83%",
+    "uptimeYear": "59.85%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
@@ -443,8 +443,7 @@
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
-      "2022-01-25": 1440,
-      "2022-01-24": 1440
+      "2022-01-25": 1440
     }
   }
 ]
