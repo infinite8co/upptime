@@ -6,8 +6,8 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "93.37%",
-    "uptimeDay": "1.28%",
-    "uptimeWeek": "44.89%",
+    "uptimeDay": "7.36%",
+    "uptimeWeek": "45.76%",
     "uptimeMonth": "74.74%",
     "uptimeYear": "85.10%",
     "time": 281,
@@ -156,11 +156,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "87.10%",
+    "uptime": "87.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "75.41%",
+    "uptimeYear": "75.43%",
     "time": 435,
     "timeDay": 230,
     "timeWeek": 289,
@@ -278,8 +278,7 @@
       "2022-03-18": 859,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
-      "2022-03-15": 1440,
-      "2022-03-14": 1440
+      "2022-03-15": 1440
     }
   },
   {
@@ -292,7 +291,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.25%",
+    "uptimeYear": "73.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -395,8 +394,7 @@
       "2022-03-18": 1440,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
-      "2022-03-15": 1440,
-      "2022-03-14": 1440
+      "2022-03-15": 1440
     }
   }
 ]
