@@ -6,15 +6,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "95.22%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "38.23%",
+    "uptimeDay": "41.30%",
+    "uptimeWeek": "42.89%",
     "uptimeMonth": "41.65%",
     "uptimeYear": "88.54%",
     "time": 305,
-    "timeDay": 348,
-    "timeWeek": 495,
-    "timeMonth": 517,
-    "timeYear": 277,
+    "timeDay": 482,
+    "timeWeek": 481,
+    "timeMonth": 522,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2023-05-07": 923,
       "2023-05-06": 1440,
@@ -107,10 +107,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
-    "time": 812,
-    "timeDay": 984,
-    "timeWeek": 963,
-    "timeMonth": 969,
+    "time": 813,
+    "timeDay": 957,
+    "timeWeek": 934,
+    "timeMonth": 977,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2023-03-20": 105,
@@ -146,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "87.94%",
+    "uptime": "87.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "77.09%",
     "time": 406,
-    "timeDay": 397,
-    "timeWeek": 326,
-    "timeMonth": 304,
-    "timeYear": 355,
+    "timeDay": 335,
+    "timeWeek": 330,
+    "timeMonth": 312,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2023-03-08": 22,
       "2023-01-29": 133,
@@ -256,8 +256,7 @@
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
-      "2022-05-22": 394,
-      "2022-05-08": 20
+      "2022-05-22": 394
     }
   },
   {
@@ -266,11 +265,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "70.10%",
+    "uptime": "70.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.23%",
+    "uptimeYear": "88.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -318,8 +317,7 @@
       "2022-05-12": 1440,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
-      "2022-05-09": 1440,
-      "2022-05-08": 1440
+      "2022-05-09": 1440
     }
   }
 ]
