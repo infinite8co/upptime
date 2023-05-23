@@ -4,16 +4,16 @@
     "url": "https://infinite8.co",
     "icon": "https://icons.duckduckgo.com/ip3/infinite8.co.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "94.44%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "31.67%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "31.76%",
     "uptimeMonth": "47.35%",
-    "uptimeYear": "86.44%",
+    "uptimeYear": "86.45%",
     "time": 307,
-    "timeDay": 464,
-    "timeWeek": 442,
-    "timeMonth": 518,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 516,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2023-05-23": 456,
@@ -104,7 +104,7 @@
       "2022-08-24": 225,
       "2022-08-22": 326,
       "2022-08-21": 562,
-      "2022-08-20": 266
+      "2022-08-20": 219
     }
   },
   {
@@ -161,7 +161,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.25%",
+    "uptimeYear": "77.26%",
     "time": 404,
     "timeDay": 321,
     "timeWeek": 224,
