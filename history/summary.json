@@ -6,14 +6,14 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "94.12%",
-    "uptimeDay": "37.93%",
+    "uptimeDay": "49.06%",
     "uptimeWeek": "21.62%",
     "uptimeMonth": "44.71%",
     "uptimeYear": "85.58%",
-    "time": 334,
-    "timeDay": 326,
-    "timeWeek": 1395,
-    "timeMonth": 788,
+    "time": 333,
+    "timeDay": 421,
+    "timeWeek": 1386,
+    "timeMonth": 780,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2023-05-27": 829,
@@ -123,10 +123,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.04%",
     "time": 822,
-    "timeDay": 908,
-    "timeWeek": 899,
-    "timeMonth": 973,
-    "timeYear": 791,
+    "timeDay": 891,
+    "timeWeek": 890,
+    "timeMonth": 969,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2023-05-24": 17,
       "2023-03-20": 105,
@@ -161,15 +161,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "88.22%",
+    "uptime": "88.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "78.42%",
+    "uptimeYear": "78.55%",
     "time": 404,
-    "timeDay": 319,
-    "timeWeek": 320,
-    "timeMonth": 308,
+    "timeDay": 327,
+    "timeWeek": 325,
+    "timeMonth": 307,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2023-05-24": 17,
@@ -265,8 +265,7 @@
       "2022-06-01": 1440,
       "2022-05-31": 1440,
       "2022-05-30": 1440,
-      "2022-05-29": 1440,
-      "2022-05-28": 1440
+      "2022-05-29": 1440
     }
   },
   {
@@ -275,11 +274,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "70.79%",
+    "uptime": "70.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.69%",
+    "uptimeYear": "93.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -307,8 +306,7 @@
       "2022-06-01": 1440,
       "2022-05-31": 1440,
       "2022-05-30": 1440,
-      "2022-05-29": 1440,
-      "2022-05-28": 1440
+      "2022-05-29": 1440
     }
   }
 ]
