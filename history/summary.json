@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "94.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.83%",
+    "uptimeWeek": "85.78%",
     "uptimeMonth": "50.09%",
     "uptimeYear": "85.58%",
     "time": 333,
-    "timeDay": 371,
-    "timeWeek": 1686,
-    "timeMonth": 765,
-    "timeYear": 313,
+    "timeDay": 410,
+    "timeWeek": 1868,
+    "timeMonth": 763,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2023-05-27": 829,
       "2023-05-26": 707,
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.04%",
-    "time": 823,
-    "timeDay": 965,
-    "timeWeek": 936,
-    "timeMonth": 961,
-    "timeYear": 797,
+    "time": 824,
+    "timeDay": 1038,
+    "timeWeek": 949,
+    "timeMonth": 962,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2023-05-24": 17,
       "2023-03-20": 105,
@@ -161,15 +161,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "88.28%",
+    "uptime": "88.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "79.65%",
+    "uptimeYear": "79.92%",
     "time": 403,
-    "timeDay": 315,
-    "timeWeek": 296,
-    "timeMonth": 298,
+    "timeDay": 397,
+    "timeWeek": 299,
+    "timeMonth": 297,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2023-05-24": 17,
@@ -260,8 +260,7 @@
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
-      "2022-06-03": 1440,
-      "2022-06-02": 1440
+      "2022-06-03": 1440
     }
   },
   {
@@ -270,11 +269,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "70.94%",
+    "uptime": "70.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.92%",
+    "uptimeYear": "95.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -297,8 +296,7 @@
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
-      "2022-06-03": 1440,
-      "2022-06-02": 1440
+      "2022-06-03": 1440
     }
   }
 ]
