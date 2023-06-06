@@ -8,7 +8,7 @@
     "uptime": "94.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.24%",
-    "uptimeMonth": "58.37%",
+    "uptimeMonth": "58.44%",
     "uptimeYear": "85.56%",
     "time": 332,
     "timeDay": 555,
@@ -117,12 +117,12 @@
     "url": "https://accounts.infinite8.co",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "95.97%",
+    "uptimeDay": "95.96%",
     "uptimeWeek": "97.68%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.05%",
     "time": 842,
     "timeDay": 3696,
     "timeWeek": 2493,
@@ -156,7 +156,7 @@
       "2022-08-24": 225,
       "2022-08-22": 326,
       "2022-08-21": 562,
-      "2022-08-20": 164
+      "2022-08-20": 140
     }
   },
   {
@@ -169,7 +169,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "81.04%",
+    "uptimeYear": "81.05%",
     "time": 402,
     "timeDay": 322,
     "timeWeek": 265,
