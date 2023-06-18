@@ -8,13 +8,13 @@
     "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.63%",
+    "uptimeMonth": "78.95%",
     "uptimeYear": "85.56%",
-    "time": 331,
-    "timeDay": 583,
-    "timeWeek": 369,
-    "timeMonth": 824,
-    "timeYear": 321,
+    "time": 332,
+    "timeDay": 580,
+    "timeWeek": 428,
+    "timeMonth": 838,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2023-06-03": 177,
       "2023-05-27": 829,
@@ -124,10 +124,10 @@
     "uptimeMonth": "99.08%",
     "uptimeYear": "98.05%",
     "time": 841,
-    "timeDay": 652,
-    "timeWeek": 737,
-    "timeMonth": 1318,
-    "timeYear": 849,
+    "timeDay": 853,
+    "timeWeek": 774,
+    "timeMonth": 1309,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2023-06-08": 105,
       "2023-06-07": 32,
@@ -166,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "up",
-    "uptime": "88.48%",
+    "uptime": "88.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "84.00%",
+    "uptimeYear": "84.27%",
     "time": 380,
-    "timeDay": 104,
-    "timeWeek": 252,
+    "timeDay": 354,
+    "timeWeek": 288,
     "timeMonth": 279,
-    "timeYear": 351,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2023-06-03": 174,
       "2023-05-24": 17,
@@ -250,8 +250,7 @@
       "2022-08-19": 461,
       "2022-08-10": 29,
       "2022-08-09": 48,
-      "2022-06-19": 889,
-      "2022-06-18": 1440
+      "2022-06-19": 889
     }
   },
   {
@@ -260,19 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "71.47%",
+    "uptime": "71.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.58%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-19": 889,
-      "2022-06-18": 1440
+      "2022-06-19": 889
     }
   }
 ]
