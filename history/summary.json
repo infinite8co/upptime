@@ -170,17 +170,17 @@
     "slug": "status-page",
     "status": "down",
     "uptime": "89.03%",
-    "uptimeDay": "12.45%",
-    "uptimeWeek": "87.49%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "84.46%",
+    "uptimeDay": "3.94%",
+    "uptimeWeek": "86.28%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "84.43%",
     "time": 342,
     "timeDay": 0,
     "timeWeek": 293,
     "timeMonth": 260,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2023-08-08": 75,
+      "2023-08-08": 198,
       "2023-08-07": 1185,
       "2023-06-03": 174,
       "2023-05-24": 17,
@@ -262,17 +262,19 @@
     "url": "https://status2.infinite8.co",
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
-    "status": "up",
-    "uptime": "73.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "73.06%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 150,
+    "timeDay": 112,
     "timeWeek": 150,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   }
 ]
