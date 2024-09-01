@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 363,
-    "timeDay": 351,
-    "timeWeek": 210,
-    "timeMonth": 201,
-    "timeYear": 207,
+    "timeDay": 187,
+    "timeWeek": 218,
+    "timeMonth": 203,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2024-03-23": 1392,
       "2024-03-22": 216,
@@ -32,12 +32,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.31%",
-    "time": 7245,
-    "timeDay": 1961,
-    "timeWeek": 8743,
-    "timeMonth": 8702,
-    "timeYear": 8300,
+    "uptimeYear": "96.44%",
+    "time": 7246,
+    "timeDay": 1697,
+    "timeWeek": 7598,
+    "timeMonth": 8471,
+    "timeYear": 8341,
     "dailyMinutesDown": {
       "2024-07-24": 107,
       "2024-07-23": 1440,
@@ -57,8 +57,7 @@
       "2023-10-26": 77,
       "2023-09-05": 897,
       "2023-09-04": 1440,
-      "2023-09-03": 1425,
-      "2023-09-02": 1371
+      "2023-09-03": 1425
     }
   },
   {
@@ -67,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "62.85%",
+    "uptime": "62.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -76,9 +75,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 137,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-08-31": 83,
+      "2024-09-01": 102,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -441,8 +441,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -451,7 +450,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "51.58%",
+    "uptime": "51.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -462,7 +461,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-31": 83,
+      "2024-09-01": 102,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -825,8 +825,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   }
 ]
