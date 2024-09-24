@@ -28,9 +28,9 @@
     "url": "https://accounts.infinite8.co",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "97.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "93.36%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "97.54%",
@@ -40,6 +40,7 @@
     "timeMonth": 8254,
     "timeYear": 8460,
     "dailyMinutesDown": {
+      "2024-09-24": 0,
       "2024-09-19": 669,
       "2024-07-24": 107,
       "2024-07-23": 1440,
@@ -76,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-09-24": 96,
+      "2024-09-24": 318,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -460,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-24": 96,
+      "2024-09-24": 318,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
