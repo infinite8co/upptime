@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 215,
-    "timeDay": 430,
-    "timeWeek": 291,
-    "timeMonth": 235,
+    "timeDay": 440,
+    "timeWeek": 299,
+    "timeMonth": 244,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-09-19": 678,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "97.20%",
+    "uptime": "97.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.46%",
-    "uptimeYear": "95.29%",
+    "uptimeMonth": "69.17%",
+    "uptimeYear": "95.01%",
     "time": 8330,
-    "timeDay": 639,
-    "timeWeek": 411,
-    "timeMonth": 6389,
-    "timeYear": 8435,
+    "timeDay": 356,
+    "timeWeek": 412,
+    "timeMonth": 6104,
+    "timeYear": 8411,
     "dailyMinutesDown": {
-      "2025-02-10": 97,
+      "2025-02-11": 95,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -72,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "55.96%",
+    "uptime": "55.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -81,9 +82,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 128,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-02-10": 97,
+      "2025-02-11": 95,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -446,8 +448,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -456,7 +457,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "45.92%",
+    "uptime": "45.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -467,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 97,
+      "2025-02-11": 95,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -830,8 +832,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   }
 ]
