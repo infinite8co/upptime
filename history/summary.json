@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 217,
-    "timeDay": 167,
-    "timeWeek": 225,
-    "timeMonth": 228,
-    "timeYear": 220,
+    "time": 218,
+    "timeDay": 499,
+    "timeWeek": 276,
+    "timeMonth": 240,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2024-09-19": 678,
-      "2024-03-23": 1392,
-      "2024-03-22": 216
+      "2024-03-23": 1392
     }
   },
   {
@@ -27,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "94.00%",
+    "uptime": "93.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "84.61%",
-    "time": 7972,
-    "timeDay": 145,
-    "timeWeek": 417,
-    "timeMonth": 453,
-    "timeYear": 7579,
+    "uptimeYear": "84.34%",
+    "time": 7958,
+    "timeDay": 586,
+    "timeWeek": 440,
+    "timeMonth": 457,
+    "timeYear": 7553,
     "dailyMinutesDown": {
-      "2025-03-21": 103,
+      "2025-03-22": 100,
+      "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -99,8 +99,7 @@
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 152,
-      "2024-03-23": 1392,
-      "2024-03-22": 215
+      "2024-03-23": 1392
     }
   },
   {
@@ -109,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "54.53%",
+    "uptime": "54.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -118,9 +117,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 57,
+    "timeYear": 46,
     "dailyMinutesDown": {
-      "2025-03-21": 103,
+      "2025-03-22": 100,
+      "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -483,8 +483,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -493,7 +492,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "44.75%",
+    "uptime": "44.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -504,7 +503,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 103,
+      "2025-03-22": 100,
+      "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -867,8 +867,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   }
 ]
