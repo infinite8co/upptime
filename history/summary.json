@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 220,
-    "timeDay": 420,
-    "timeWeek": 327,
-    "timeMonth": 258,
-    "timeYear": 224,
+    "timeDay": 179,
+    "timeWeek": 297,
+    "timeMonth": 255,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2024-09-19": 678
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "93.37%",
+    "uptime": "93.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "82.73%",
-    "time": 7855,
-    "timeDay": 683,
-    "timeWeek": 476,
-    "timeMonth": 460,
-    "timeYear": 7402,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "82.45%",
+    "time": 7810,
+    "timeDay": 494,
+    "timeWeek": 459,
+    "timeMonth": 462,
+    "timeYear": 7376,
     "dailyMinutesDown": {
-      "2025-03-29": 102,
+      "2025-03-30": 110,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -113,10 +114,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "54.24%",
+    "uptime": "54.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 132,
     "timeDay": 0,
@@ -124,7 +125,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 102,
+      "2025-03-30": 110,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -487,8 +489,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -497,10 +498,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "44.51%",
+    "uptime": "44.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -508,7 +509,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 102,
+      "2025-03-30": 110,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -871,8 +873,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   }
 ]
