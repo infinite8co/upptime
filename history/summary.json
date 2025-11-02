@@ -6,15 +6,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "96.73%",
-    "uptimeDay": "65.55%",
+    "uptimeDay": "93.00%",
     "uptimeWeek": "95.08%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.99%",
-    "time": 340,
-    "timeDay": 6728,
-    "timeWeek": 2460,
-    "timeMonth": 871,
-    "timeYear": 380,
+    "time": 341,
+    "timeDay": 294,
+    "timeWeek": 2458,
+    "timeMonth": 878,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2025-11-01": 215,
       "2025-10-31": 281,
@@ -31,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "78.99%",
+    "uptime": "78.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.35%",
+    "uptimeYear": "25.10%",
     "time": 3991,
-    "timeDay": 187,
-    "timeWeek": 336,
-    "timeMonth": 374,
-    "timeYear": 2793,
+    "timeDay": 651,
+    "timeWeek": 352,
+    "timeMonth": 381,
+    "timeYear": 2766,
     "dailyMinutesDown": {
-      "2025-11-01": 215,
+      "2025-11-02": 114,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -324,7 +325,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "47.52%",
+    "uptime": "47.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -335,7 +336,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 215,
+      "2025-11-02": 114,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -698,8 +700,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   },
   {
@@ -708,7 +709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "38.99%",
+    "uptime": "38.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -719,7 +720,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 215,
+      "2025-11-02": 114,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -1082,8 +1084,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   }
 ]
