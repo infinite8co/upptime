@@ -6,14 +6,14 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "96.77%",
-    "uptimeDay": "90.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.58%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.96%",
     "time": 344,
-    "timeDay": 206,
-    "timeWeek": 249,
-    "timeMonth": 757,
+    "timeDay": 243,
+    "timeWeek": 236,
+    "timeMonth": 759,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-11-18": 143,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "78.00%",
+    "uptime": "77.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.44%",
-    "time": 3967,
-    "timeDay": 631,
-    "timeWeek": 362,
-    "timeMonth": 352,
-    "timeYear": 2320,
+    "uptimeYear": "20.17%",
+    "time": 3950,
+    "timeDay": 161,
+    "timeWeek": 334,
+    "timeMonth": 353,
+    "timeYear": 2294,
     "dailyMinutesDown": {
-      "2025-11-19": 110,
+      "2025-11-20": 109,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -343,7 +344,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "47.03%",
+    "uptime": "47.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -354,7 +355,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 110,
+      "2025-11-20": 109,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -717,8 +719,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -727,7 +728,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "38.60%",
+    "uptime": "38.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -738,7 +739,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 110,
+      "2025-11-20": 109,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -1101,8 +1103,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   }
 ]
