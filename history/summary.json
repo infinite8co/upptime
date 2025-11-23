@@ -11,7 +11,7 @@
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.96%",
     "time": 343,
-    "timeDay": 208,
+    "timeDay": 152,
     "timeWeek": 216,
     "timeMonth": 755,
     "timeYear": 381,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "77.84%",
+    "uptime": "77.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.62%",
-    "time": 3914,
-    "timeDay": 462,
-    "timeWeek": 369,
+    "uptimeYear": "19.34%",
+    "time": 3898,
+    "timeDay": 440,
+    "timeWeek": 416,
     "timeMonth": 372,
-    "timeYear": 2245,
+    "timeYear": 2220,
     "dailyMinutesDown": {
-      "2025-11-22": 106,
+      "2025-11-23": 124,
+      "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -346,7 +347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "46.95%",
+    "uptime": "46.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -357,7 +358,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 106,
+      "2025-11-23": 124,
+      "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -720,8 +722,7 @@
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
-      "2024-11-24": 1440,
-      "2024-11-23": 1440
+      "2024-11-24": 1440
     }
   },
   {
@@ -730,7 +731,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "38.53%",
+    "uptime": "38.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -741,7 +742,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-22": 106,
+      "2025-11-23": 124,
+      "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -1104,8 +1106,7 @@
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
-      "2024-11-24": 1440,
-      "2024-11-23": 1440
+      "2024-11-24": 1440
     }
   }
 ]
