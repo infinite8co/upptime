@@ -11,9 +11,9 @@
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.96%",
     "time": 344,
-    "timeDay": 191,
-    "timeWeek": 243,
-    "timeMonth": 752,
+    "timeDay": 165,
+    "timeWeek": 238,
+    "timeMonth": 751,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2025-11-18": 143,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "77.57%",
+    "uptime": "77.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.25%",
-    "time": 3837,
-    "timeDay": 4450,
-    "timeWeek": 986,
+    "uptimeYear": "17.98%",
+    "time": 3820,
+    "timeDay": 145,
+    "timeWeek": 917,
     "timeMonth": 496,
-    "timeYear": 2131,
+    "timeYear": 2106,
     "dailyMinutesDown": {
-      "2025-11-27": 109,
+      "2025-11-28": 109,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -351,7 +352,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "46.82%",
+    "uptime": "46.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -362,7 +363,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 110,
+      "2025-11-28": 109,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -725,8 +727,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   },
   {
@@ -735,7 +736,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "38.42%",
+    "uptime": "38.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -746,7 +747,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 110,
+      "2025-11-28": 109,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1109,8 +1111,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   }
 ]
