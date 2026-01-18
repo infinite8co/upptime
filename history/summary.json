@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
     "time": 352,
-    "timeDay": 391,
-    "timeWeek": 355,
-    "timeMonth": 295,
+    "timeDay": 203,
+    "timeWeek": 324,
+    "timeMonth": 297,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2025-11-18": 143,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.infinite8.co.ico",
     "slug": "client-portal",
     "status": "down",
-    "uptime": "74.91%",
+    "uptime": "74.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.28%",
-    "time": 3018,
-    "timeDay": 616,
-    "timeWeek": 353,
-    "timeMonth": 403,
-    "timeYear": 843,
+    "uptimeYear": "4.00%",
+    "time": 2998,
+    "timeDay": 175,
+    "timeWeek": 326,
+    "timeMonth": 405,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2026-01-17": 117,
+      "2026-01-18": 130,
+      "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -402,7 +403,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.infinite8.co.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "45.51%",
+    "uptime": "45.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -413,7 +414,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-17": 117,
+      "2026-01-18": 130,
+      "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -776,8 +778,7 @@
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
-      "2025-01-19": 1440,
-      "2025-01-18": 1440
+      "2025-01-19": 1440
     }
   },
   {
@@ -786,7 +787,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status2.infinite8.co.ico",
     "slug": "third-party-status-page",
     "status": "down",
-    "uptime": "37.35%",
+    "uptime": "37.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -797,7 +798,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-17": 117,
+      "2026-01-18": 130,
+      "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -1160,8 +1162,7 @@
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
-      "2025-01-19": 1440,
-      "2025-01-18": 1440
+      "2025-01-19": 1440
     }
   }
 ]
